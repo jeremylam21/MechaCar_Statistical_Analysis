@@ -37,4 +37,4 @@ For the T-Tests conducted on Lots 1 & 2 we see a similar outcome, with a p-value
 
 
 ## Study Design: MechaCar vs Competition
-I believe an interesting study that would be interesting to consumers would be to conduct a series of T-tests comparing mean cost values with respect to the type of vehicle. If MechaCar were to create, for example, a family sedan, it would be intersting to compare its cost with other vehicles in it's class. 
+I believe an interesting study that would be interesting to consumers would be to conduct a series of T-tests comparing mean cost values with respect to the type of vehicle. If MechaCar were to create, for example, a family sedan, it would be intersting to compare its cost with other vehicles in it's class. For this test the null hypothesis that the same type of vehicle would be the same cost and the alternative hypothesis would be that vehicle produced by MechaCar is significantly different. 
